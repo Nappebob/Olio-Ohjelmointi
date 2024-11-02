@@ -17,12 +17,12 @@ int main() {
     cout << "Luvun " << num << " Kertoma = " << factorial(num) << endl;
   }
 
-  //cout <<"Anna n "<<endl;
-  //cin>>n;
-  //cout<<"Anna K"<<endl;
-  //cin>>k;
-  //result=coefficient(n,k);
-  //cout<<n<<" yli "<<k<<" = "<<result<<endl;
+  cout <<"Anna n "<<endl;
+  cin>>n;
+  cout<<"Anna K"<<endl;
+  cin>>k;
+  result=coefficient(n,k);
+  cout<<n<<" yli "<<k<<" = "<<result<<endl;
 
   return 0;
 }
