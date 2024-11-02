@@ -15,3 +15,7 @@ Kertoman ja binomikeroitmen laskeminen.
 ## Esim4
 
 Esimerkki 4 aloitettu
+
+## H1
+
+Harjoitus 1 valmiina
