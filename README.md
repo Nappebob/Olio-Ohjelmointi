@@ -19,3 +19,12 @@ Esimerkki 4 aloitettu
 ## H1
 
 Harjoitus 1 valmiina
+
+## Esim5
+
+Esimerkkissä havainnollistetaan eri tapoja luoda olio: eli
+<ul>
+<li>Automaattinen olio</li>
+<li>Dynaaminen olio</li>
+<li>Smart pointterilla luotu Dynaaminen olio</li>
+</ui>
