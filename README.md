@@ -29,6 +29,6 @@ Esimerkkissä havainnollistetaan eri tapoja luoda olio: eli
 <li>Smart pointterilla luotu Dynaaminen olio</li>
 </ui>
 
-## Esim 6
+## Esim6
 
 Esimerkki Student Olio:sta
