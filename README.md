@@ -1,4 +1,4 @@
-#Olio-ohjelmoinnin esimerkkitehtäviä
+# Olio-ohjelmoinnin esimerkkitehtäviä
 
 ## Esim1
 
@@ -27,7 +27,7 @@ Esimerkkissä havainnollistetaan eri tapoja luoda olio: eli
 <li>Automaattinen olio</li>
 <li>Dynaaminen olio</li>
 <li>Smart pointterilla luotu Dynaaminen olio</li>
-</ui>
+</ul>
 
 ## Esim6
 
