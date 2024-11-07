@@ -36,3 +36,7 @@ Esimerkki Student Olio:sta
 ## Esim7
 
 Esimerkkejä Olio listauksista sekä for loop käytöstä
+
+## Esim8
+
+Esimerkkejä Olio perimästä
