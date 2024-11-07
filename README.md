@@ -32,3 +32,7 @@ Esimerkkissä havainnollistetaan eri tapoja luoda olio: eli
 ## Esim6
 
 Esimerkki Student Olio:sta
+
+## Esim7
+
+Esimerkkejä Olio listauksista sekä for loop käytöstä
