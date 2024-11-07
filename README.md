@@ -2,7 +2,7 @@
 
 ## Esim1
 
-Demosin gitin käyttöä
+Demo gitin käyttöä
 
 ## Esim2
 
