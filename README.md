@@ -40,3 +40,7 @@ Esimerkkejä Olio listauksista sekä for loop käytöstä
 ## Esim8
 
 Esimerkkejä Olio perimästä
+
+## H2_a
+
+Harjoitus 2 valmiina
