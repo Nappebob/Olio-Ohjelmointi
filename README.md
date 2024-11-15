@@ -43,4 +43,4 @@ Esimerkkejä Olio perimästä
 
 ## H2_a
 
-Harjoitus 2 valmiina
+Harjoitus 2a valmiina
