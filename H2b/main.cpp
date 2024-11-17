@@ -30,9 +30,5 @@ int main()
         carList[x].printData();
     }
 
-
-
-
-
     return 0;
 }
