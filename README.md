@@ -1,45 +1,12 @@
 # Olio-ohjelmoinnin esimerkkitehtäviä
 
-## Esim1
+## Esimerkit
 
-Demo gitin käyttöä
-
-## Esim2
-
-Esimerkkejä funktioista ja header-/ccpp-tiedostojen käytöstä
-
-## Esim3
-
-Kertoman ja binomikeroitmen laskeminen.
-
-## Esim4
-
-Esimerkki 4 aloitettu
+Esimerkit tunneilla käytetystä materiaalista
 
 ## H1
 
 Harjoitus 1 valmiina
-
-## Esim5
-
-Esimerkkissä havainnollistetaan eri tapoja luoda olio: eli
-<ul>
-<li>Automaattinen olio</li>
-<li>Dynaaminen olio</li>
-<li>Smart pointterilla luotu Dynaaminen olio</li>
-</ul>
-
-## Esim6
-
-Esimerkki Student Olio:sta
-
-## Esim7
-
-Esimerkkejä Olio listauksista sekä for loop käytöstä
-
-## Esim8
-
-Esimerkkejä Olio perimästä
 
 ## H2_a
 
@@ -55,4 +22,4 @@ Harjoitus 3a valmiina
 
 ## H3_b
 
-Harjoitus 3a valmiina
+Harjoitus 3b valmiina
