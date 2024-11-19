@@ -52,3 +52,7 @@ Harjoitus 2b valmiina
 ## H3_a
 
 Harjoitus 3a valmiina
+
+## H3_b
+
+Harjoitus 3a valmiina
