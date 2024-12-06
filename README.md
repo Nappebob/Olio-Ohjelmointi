@@ -6,7 +6,7 @@ Esimerkit tunneilla käytetystä materiaalista
 
 ## GraphicalApp
 
-Esimerkki harjoituksia tunneilta
+Esimerkkiharjoituksia tunneilta
 
 ## H1
 
