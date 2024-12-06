@@ -4,6 +4,10 @@
 
 Esimerkit tunneilla käytetystä materiaalista
 
+## GraphicalApp
+
+Esimerkki harjoituksia tunneilta
+
 ## H1
 
 Harjoitus 1 valmiina
@@ -25,4 +29,7 @@ Harjoitus 3a valmiina
 Harjoitus 3b valmiina
 
 ## H4
+Harjoitus 4 valmiina
+
+## H5
 Harjoitus 4 valmiina
