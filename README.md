@@ -36,3 +36,6 @@ Harjoitus 5 valmiina
 
 ## H6a
 Harjoitus 6a valmiina
+
+## H6b
+Harjoitus 6b valmiina
