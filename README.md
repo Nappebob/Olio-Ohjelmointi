@@ -32,4 +32,7 @@ Harjoitus 3b valmiina
 Harjoitus 4 valmiina
 
 ## H5
-Harjoitus 4 valmiina
+Harjoitus 5 valmiina
+
+## H6a
+Harjoitus 6a valmiina
